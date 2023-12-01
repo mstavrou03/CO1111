@@ -1,3 +1,3 @@
 # CO1111
-first lesson
-Cool stuff!
+Week 10 
+Cool Stuff!
